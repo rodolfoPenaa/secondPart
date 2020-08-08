@@ -1,21 +1,18 @@
-package com.example.doggys;
+package com.example.doggys.networking.POJOS;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
 import java.util.List;
 
-public class BreedsDogs {
+public class BreedsIMAGES {
 
     @SerializedName("message")
     @Expose
-public List<String> message = null;
+    public List<String> message = null;
 
     @SerializedName("status")
     @Expose
     public String status;
 
 }
-
-
-/* POJOOO*/

@@ -1,5 +1,6 @@
-package com.example.doggys;
+package com.example.doggys.networking;
 
+import com.example.doggys.networking.POJOS.BreedsDogs;
 import com.example.doggys.networking.APIclient;
 import com.example.doggys.networking.APIdogs;
 
@@ -39,5 +40,5 @@ private List<String> nombrelistaperro;
     return nombrelistaperro;
     }
 
-    public List<String> breedsIMG  ..........................
+    public List<String> firstanswer = bREEDS().add()
 }

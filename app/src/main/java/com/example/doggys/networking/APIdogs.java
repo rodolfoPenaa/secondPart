@@ -1,7 +1,7 @@
 package com.example.doggys.networking;
 
-import com.example.doggys.BreedsDogs;
-import com.example.doggys.BreedsIMAGES;
+import com.example.doggys.networking.POJOS.BreedsDogs;
+import com.example.doggys.networking.POJOS.BreedsIMAGES;
 
 import retrofit2.Call;
 import retrofit2.http.GET;
